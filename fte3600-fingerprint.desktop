@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Сканер отпечатков
+Name[en]=Fingerprint scanner
+Comment=Управление сканером отпечатков FocalTech FTE3600
+Comment[en]=Manage the FocalTech FTE3600 fingerprint reader
+Exec=/usr/local/bin/fte3600-gui
+Icon=fingerprint
+Terminal=false
+Categories=System;Settings;Utility;
+Keywords=fingerprint;biometrics;отпечаток;биометрия;сканер;
+StartupNotify=true
